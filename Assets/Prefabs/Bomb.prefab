@@ -95,3 +95,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: deb1937a265ca894d9722756cb6bb60a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  countdown: 2
+  tilemap: {fileID: 5255641114038693629, guid: 4fd56e409ef5e5a4880790ed8e612bfb, type: 3}
+  wallTile: {fileID: 11400000, guid: dd221daf9de1c624b82c1f90bda93bae, type: 2}
+  destructibleTile: {fileID: 11400000, guid: f5cead61b9ade294eaef2b42ad349148, type: 2}
+  explosionPrefab: {fileID: 1173460035282366505, guid: 63fc5b4c0e955a74883a609af15c688b,
+    type: 3}
